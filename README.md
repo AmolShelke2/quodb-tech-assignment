@@ -2,6 +2,8 @@
 
 A simple Todo application created with Reactjs, redux and Tailwind CSS. Building this application in a given time was a good learning process for me as well. 
 
+pls: open it on laptop screens the mobile responsive is being done!
+
 ## Tech used
 
 - Reactjs
