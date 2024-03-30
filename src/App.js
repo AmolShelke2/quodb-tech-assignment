@@ -10,7 +10,6 @@ function App() {
         </h2>
 
         <AddTodos />
-        <Todos />
       </div>
     </div>
   );
