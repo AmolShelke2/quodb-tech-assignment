@@ -1,5 +1,4 @@
 import AddTodos from "./components/AddTodos";
-import Todos from "./components/Todos";
 
 function App() {
   return (
