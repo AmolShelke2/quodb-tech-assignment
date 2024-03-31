@@ -12,6 +12,11 @@ const AddTodos = ({ todos, addTodo, deleteTodo }) => {
   };
 
   const handleAddTodo = () => {
+    if (todo === "") {
+      window.alert("Please enter a valid todo item");
+      return;
+    }
+
     const newTodoItem = {
       item: todo,
       id: generateRandomId(8),
